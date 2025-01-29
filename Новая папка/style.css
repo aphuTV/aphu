@@ -1,0 +1,37 @@
+span{
+    color: palevioletred;
+}
+
+img{
+    width: 800;
+    height: 400px;
+
+}
+h1{
+    color: darkred;
+}
+hr{
+    color: blue;
+}
+dt h1 span1 { color: #df2822;
+  
+}
+dd span2{
+    color:  rgb(231, 70, 83);
+}
+dd span3{
+    color: blueviolet;
+}
+dd span4{
+    color: mediumorchid;
+}
+button{
+    width:80px;
+    height: 60px;
+    color: rgb(216, 7, 7);
+}
+
+h1 a{
+    color: red;
+    background: black;
+}
